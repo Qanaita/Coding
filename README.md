@@ -1,3 +1,3 @@
 # hello_world
 Hi Humans
-My name is Qanaita and I 28 years old.
+My name is Qanaita and I am 28 years old.
